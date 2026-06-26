@@ -11,8 +11,7 @@ macOS终端脚本/
 ├── icon3-3.png             # App 图标（png 格式）
 ├── 使用说明.md              # 中文使用手册
 ├── UserManual.md           # 英文使用手册
-├── README.md               # 本文件（项目首页）
-└── WORKSPACE.md            # 工作空间约定
+└── README.md               # 本文件（项目首页）
 ```
 
 ## 快速开始
