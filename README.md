@@ -43,8 +43,6 @@ python3 svntool_gui.py
 pyinstaller --onefile --windowed --icon=icon3-3.icns --name "SVN工具箱" svntool_gui.py
 ```
 
-产物在 `dist/SVN工具箱.app`。
-
 ## 功能
 
 | 功能 | 说明 |
@@ -56,8 +54,3 @@ pyinstaller --onefile --windowed --icon=icon3-3.icns --name "SVN工具箱" svnto
 | 撤销 | 复选弹框 + svn revert |
 | 解决冲突 | 复选弹框 + theirs-full / mine-full |
 
-## 工作流规范
-
-本工作空间采用「先计划，后执行」的工作流模式。对所有 AI agent 生效。
-
-详见 [README（旧版）](./README.md 备份.md)。
